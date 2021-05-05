@@ -74,3 +74,21 @@ Sometimes when building a keyboard, not everything goes according to plan. Hopef
 ### Issue: Switches are not clipping into plate, and plate is not sitting level. 
 
 **Cause:** This can happen when the plate is pushed down while clipping in switches, which then causes the plate to sit below the switch. 
+
+## Assembly Issues
+
+### Issue: Switches are not clipping into plate, and plate is not sitting level. 
+
+**Cause:** This can happen when the plate is pushed down while clipping in switches, which then causes the plate to sit below the switch. Here are some tips to fix it.
+1. Before inserting the plate with switches into the pcb, attach six or so on the corners, and in the middle of the plate.
+> ![](resources/switch-clip-1.jpg)
+2. Insert this into the pcb, making sure the switches are all properly seated and still clipped into the plate.
+3. Next, insert switches around the edge, pulling up on the plate to make sure everything is seated correctly.
+> ![](resources/switch-clip-gif.gif)
+> 
+> ![](resources/switch-clip-2.jpg)
+4. Continue inserting switches around the edge until they are all in, using the above method
+	* Make sure you aren't bending pins while inserting the switch. If you feel or hear something off compared to other switches, check the bottom of the pcb to make sure nothing bent.
+> ![](resources/switch-clip-3.jpg)
+5. Once the edge is lined, start filling in the rest of the switches. You should still be careful inserting them, but the tough part is over.
+> ![](resources/switch-clip-4.jpg)
