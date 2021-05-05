@@ -40,7 +40,10 @@ Sometimes when building a keyboard, not everything goes according to plan. Hopef
 > Here is a great video example of how to form a bridge
 > <iframe width="500" height="300" src="https://www.youtube.com/embed/N5IivDkrp6U" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-5.  Beside each switch on the bottom of the pcb is a [diode](https://www.retroamplis.com/WebRoot/StoreES2/Shops/62070367/5D35/9BC7/64E5/B40E/3A10/0A0C/6D0E/A4DB/smb_diode_do214_m.jpg). If there is one missing beside a switch, those keypresses will not register. You can sometimes fix this by purchasing a new diode and soldering it on, however if the pads are pulled you cannot.
+5.  Beside each switch on the bottom of the pcb is a diode. If there is one missing beside a switch, those keypresses will not register. You can sometimes fix this by purchasing a new diode and soldering it on, however if the pads are pulled you cannot.
+> Here is an example of an SMD diode
+> 
+> ![](resources/diode-example-small.png)
 
 
 ## Stabilizer Issues
