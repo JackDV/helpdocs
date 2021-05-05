@@ -92,4 +92,3 @@ Sometimes when building a keyboard, not everything goes according to plan. Hopef
 > ![](resources/switch-clip-3.jpg)
 5. Once the edge is lined, start filling in the rest of the switches. You should still be careful inserting them, but the tough part is over.
 > ![](resources/switch-clip-4.jpg)
-> 
