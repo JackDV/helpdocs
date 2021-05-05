@@ -11,6 +11,9 @@ Sometimes when building a keyboard, not everything goes according to plan. Hopef
 1.  A common issue is improper cable/port power. Try a different cable and usb port, that can sometimes be the issue.
     
 2.  Another common issue is your pcb being in boot/dfu mode. To check this, unplug your pcb, and check to make sure there is a switch on the back with two positions (generally 0 and 1). Most of the time, position 0 is for use, and 1 is dfu mode. Make sure it’s on 0.
+> Here is an example of what the switch will look like, the reset button also pictured above.
+> 
+> ![](resources/switch-0-1-small.png)
     
 3.  Similar to the first issue, a loose connection inside the usb port or a poor solder job on the usb port can cause your PCB to not be recognized. Check your usb port for bridges, or a loose connector. Note: if you’re hand soldering a usb port, it is highly recommended to use flux on the pads. This makes the process much easier.
     
@@ -43,7 +46,7 @@ Sometimes when building a keyboard, not everything goes according to plan. Hopef
 5.  Beside each switch on the bottom of the pcb is a diode. If there is one missing beside a switch, those keypresses will not register. You can sometimes fix this by purchasing a new diode and soldering it on, however if the pads are pulled you cannot.
 > Here is an example of an SMD diode
 > 
-> ![](resources/diode-example-small.png)
+>  ![](resources/diode-example-small.png)
 
 
 ## Stabilizer Issues
@@ -56,7 +59,7 @@ Sometimes when building a keyboard, not everything goes according to plan. Hopef
 
 ### Issue: Stabilizer makes a little click when bottoming out. 
 
-**Cause:** This is generally called ticking, and happens with some stabilizer such as cherry clip-ins, or screw ins. This can be solved by trimming the bottoms of the stems as seen in this video: . This can also be caused by a bent wire, similar to the above issue.
+**Cause:** This is generally called ticking, and happens with some stabilizer such as cherry clip-ins, or screw ins. This can be solved by trimming the bottoms of the stems as seen in the image below. This can also be caused by a bent wire, similar to the above issue.
 
 > ***Here are the parts of the stem that you should try clipping off, circled in red***
 > 
@@ -64,3 +67,10 @@ Sometimes when building a keyboard, not everything goes according to plan. Hopef
 
 > ***Here is a quick demonstration on how to bend a wire back to 90 degrees***
 > <iframe width="500" height="300" src="https://drive.google.com/file/d/17tOngyfR2waVlRzFmAdUNLqegxGkKE3B/preview" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Assembly Issues
+
+### Issue: Switches are not clipping into plate, and plate is not sitting level. 
+
+**Cause:** This can happen when the plate is pushed down while clipping in switches, which then causes the plate to sit below the switch. 
